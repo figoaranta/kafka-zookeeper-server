@@ -1,4 +1,4 @@
-##Containerized zookeeper and kafka servers \n
+#Containerized zookeeper and kafka servers \n
 
 ### 1. To start both zookeeper and kafka servers \n
 option1: docker-compose -f docker-compose.yml up
