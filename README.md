@@ -1,7 +1,7 @@
-## Containerized zookeeper and kafka servers \n
+## Containerized zookeeper and kafka servers
 
-### 1. To start both zookeeper and kafka servers \n
-option1: docker-compose -f docker-compose.yml up
+### 1. To start both zookeeper and kafka servers
+option1: docker-compose -f docker-compose.yml up /n
 option2: docker-compose -f docker-compose.yml up -d (start service in background mode)
 
 ### 2. To shut down both zookeeper and kafka servers \n
